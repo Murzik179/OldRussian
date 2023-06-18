@@ -1,5 +1,7 @@
+## Pack name and description
 pack.name=Дореволюціонный Русскій
 pack.description=Данный аддонъ добавляетъ дореформенный русскій языкъ, который использовался въ Россіи до прихода къ власти большевиковъ.
+## Education Edition
 action.interact.balloon=Прикрѣпить	#
 action.interact.unballoon=Открѣпить	#
 compoundcreator.title=Создатель соединеній	#
