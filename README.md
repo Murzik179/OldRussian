@@ -1,13 +1,9 @@
-# Pre-revolutionRussian
-This is add-on for Minecraft Bedrock Edition. This add-on adds Pre-revolution Russian language in game
+Old Russian
+===========
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
-  
- This work is licensed under a 
- [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]. 
-  
- [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa] 
-  
- [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/ 
- [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png 
- [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+This resource pack adds the old Russian language, which uses the old spelling before the Soviet reforms.
+
+Licensing
+===========
+
+All materials in this GitHub Repositories spread to license: [GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html#license-text), unless otherwise specified.
